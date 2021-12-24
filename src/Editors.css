@@ -1,0 +1,9 @@
+textarea {
+  resize: none;
+  height: 70vh;
+  width: 23vw;
+}
+
+.editor-inline {
+  display: inline-block;
+}
